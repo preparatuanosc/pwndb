@@ -24,7 +24,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "-t",
         "--target",
-        metavar=("EMAIL"),
+        metavar=("ricardoandresao@gmail.com"),
         type=str,
         help="Set target email.",
         required=True,
